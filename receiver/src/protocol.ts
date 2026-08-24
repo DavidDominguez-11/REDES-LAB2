@@ -30,3 +30,25 @@ export function bitsToAscii(bits: string): string {
   for (let i = 0; i < bits.length; i += 8) text += String.fromCharCode(parseInt(bits.slice(i, i + 8), 2));
   return text;
 }
+export function decodeSecded(frame: string, originalBits: number): { status: DecodeStatus; bits?: string; corrected: number; doubles: number } {
+  if (frame.length % 13 !== 0) throw new Error("trama SECDED inválida");
+  let output = "", corrected = 0, doubles = 0;
+  for (let offset = 0; offset < frame.length; offset += 13) {
+    const word = frame.slice(offset, offset + 13).split("").map(Number);
+    const one = [0, ...word];
+    let syndrome = 0;
+    for (const parity of [1, 2, 4, 8]) {
+      let xor = 0;
+      for (let position = 1; position <= 12; position++) if ((position & parity) !== 0) xor ^= one[position];
+      if (xor) syndrome |= parity;
+    }
+    let overall = one[13];
+    for (let position = 1; position <= 12; position++) overall ^= one[position];
+    if (syndrome !== 0 && overall === 1) { one[syndrome] ^= 1; corrected++; }
+    else if (syndrome === 0 && overall === 1) { one[13] ^= 1; corrected++; }
+    else if (syndrome !== 0 && overall === 0) { doubles++; continue; }
+    for (const position of [3, 5, 6, 7, 9, 10, 11, 12]) output += one[position];
+  }
+  if (doubles > 0) return { status: "doble_error_detectado", corrected, doubles };
+  return { status: corrected ? "corregido" : "sin_error", bits: output.slice(0, originalBits), corrected, doubles };
+}
