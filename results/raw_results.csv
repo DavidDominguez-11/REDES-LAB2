@@ -1,0 +1,1201 @@
+algorithm,characters,noise_rate,repetition,seed,payload_bits,redundancy_bits,overhead_ratio,flipped_bits,out_of_guarantee_words,result
+secded,16,0.0,0,10160000,128,80,0.625,0,0,sin_error
+secded,16,0.0,1,10160001,128,80,0.625,0,0,sin_error
+secded,16,0.0,2,10160002,128,80,0.625,0,0,sin_error
+secded,16,0.0,3,10160003,128,80,0.625,0,0,sin_error
+secded,16,0.0,4,10160004,128,80,0.625,0,0,sin_error
+secded,16,0.0,5,10160005,128,80,0.625,0,0,sin_error
+secded,16,0.0,6,10160006,128,80,0.625,0,0,sin_error
+secded,16,0.0,7,10160007,128,80,0.625,0,0,sin_error
+secded,16,0.0,8,10160008,128,80,0.625,0,0,sin_error
+secded,16,0.0,9,10160009,128,80,0.625,0,0,sin_error
+secded,16,0.0,10,10160010,128,80,0.625,0,0,sin_error
+secded,16,0.0,11,10160011,128,80,0.625,0,0,sin_error
+secded,16,0.0,12,10160012,128,80,0.625,0,0,sin_error
+secded,16,0.0,13,10160013,128,80,0.625,0,0,sin_error
+secded,16,0.0,14,10160014,128,80,0.625,0,0,sin_error
+secded,16,0.0,15,10160015,128,80,0.625,0,0,sin_error
+secded,16,0.0,16,10160016,128,80,0.625,0,0,sin_error
+secded,16,0.0,17,10160017,128,80,0.625,0,0,sin_error
+secded,16,0.0,18,10160018,128,80,0.625,0,0,sin_error
+secded,16,0.0,19,10160019,128,80,0.625,0,0,sin_error
+secded,16,0.0,20,10160020,128,80,0.625,0,0,sin_error
+secded,16,0.0,21,10160021,128,80,0.625,0,0,sin_error
+secded,16,0.0,22,10160022,128,80,0.625,0,0,sin_error
+secded,16,0.0,23,10160023,128,80,0.625,0,0,sin_error
+secded,16,0.0,24,10160024,128,80,0.625,0,0,sin_error
+secded,16,0.0,25,10160025,128,80,0.625,0,0,sin_error
+secded,16,0.0,26,10160026,128,80,0.625,0,0,sin_error
+secded,16,0.0,27,10160027,128,80,0.625,0,0,sin_error
+secded,16,0.0,28,10160028,128,80,0.625,0,0,sin_error
+secded,16,0.0,29,10160029,128,80,0.625,0,0,sin_error
+secded,16,0.001,0,10161000,128,80,0.625,0,0,sin_error
+secded,16,0.001,1,10161001,128,80,0.625,0,0,sin_error
+secded,16,0.001,2,10161002,128,80,0.625,0,0,sin_error
+secded,16,0.001,3,10161003,128,80,0.625,0,0,sin_error
+secded,16,0.001,4,10161004,128,80,0.625,0,0,sin_error
+secded,16,0.001,5,10161005,128,80,0.625,0,0,sin_error
+secded,16,0.001,6,10161006,128,80,0.625,0,0,sin_error
+secded,16,0.001,7,10161007,128,80,0.625,0,0,sin_error
+secded,16,0.001,8,10161008,128,80,0.625,1,0,corregido
+secded,16,0.001,9,10161009,128,80,0.625,2,0,corregido
+secded,16,0.001,10,10161010,128,80,0.625,1,0,corregido
+secded,16,0.001,11,10161011,128,80,0.625,3,0,ERROR doble_error_detectado
+secded,16,0.001,12,10161012,128,80,0.625,0,0,sin_error
+secded,16,0.001,13,10161013,128,80,0.625,0,0,sin_error
+secded,16,0.001,14,10161014,128,80,0.625,0,0,sin_error
+secded,16,0.001,15,10161015,128,80,0.625,0,0,sin_error
+secded,16,0.001,16,10161016,128,80,0.625,0,0,sin_error
+secded,16,0.001,17,10161017,128,80,0.625,1,0,corregido
+secded,16,0.001,18,10161018,128,80,0.625,0,0,sin_error
+secded,16,0.001,19,10161019,128,80,0.625,0,0,sin_error
+secded,16,0.001,20,10161020,128,80,0.625,2,0,ERROR doble_error_detectado
+secded,16,0.001,21,10161021,128,80,0.625,0,0,sin_error
+secded,16,0.001,22,10161022,128,80,0.625,1,0,corregido
+secded,16,0.001,23,10161023,128,80,0.625,0,0,sin_error
+secded,16,0.001,24,10161024,128,80,0.625,1,0,corregido
+secded,16,0.001,25,10161025,128,80,0.625,0,0,sin_error
+secded,16,0.001,26,10161026,128,80,0.625,0,0,sin_error
+secded,16,0.001,27,10161027,128,80,0.625,1,0,corregido
+secded,16,0.001,28,10161028,128,80,0.625,0,0,sin_error
+secded,16,0.001,29,10161029,128,80,0.625,0,0,sin_error
+secded,16,0.01,0,10170000,128,80,0.625,0,0,sin_error
+secded,16,0.01,1,10170001,128,80,0.625,0,0,sin_error
+secded,16,0.01,2,10170002,128,80,0.625,3,0,corregido
+secded,16,0.01,3,10170003,128,80,0.625,2,0,corregido
+secded,16,0.01,4,10170004,128,80,0.625,1,0,corregido
+secded,16,0.01,5,10170005,128,80,0.625,1,0,corregido
+secded,16,0.01,6,10170006,128,80,0.625,1,0,corregido
+secded,16,0.01,7,10170007,128,80,0.625,5,0,corregido
+secded,16,0.01,8,10170008,128,80,0.625,2,0,corregido
+secded,16,0.01,9,10170009,128,80,0.625,4,0,ERROR doble_error_detectado
+secded,16,0.01,10,10170010,128,80,0.625,3,0,corregido
+secded,16,0.01,11,10170011,128,80,0.625,1,0,corregido
+secded,16,0.01,12,10170012,128,80,0.625,3,0,corregido
+secded,16,0.01,13,10170013,128,80,0.625,1,0,corregido
+secded,16,0.01,14,10170014,128,80,0.625,3,0,corregido
+secded,16,0.01,15,10170015,128,80,0.625,0,0,sin_error
+secded,16,0.01,16,10170016,128,80,0.625,1,0,corregido
+secded,16,0.01,17,10170017,128,80,0.625,2,0,corregido
+secded,16,0.01,18,10170018,128,80,0.625,2,0,corregido
+secded,16,0.01,19,10170019,128,80,0.625,2,0,corregido
+secded,16,0.01,20,10170020,128,80,0.625,0,0,sin_error
+secded,16,0.01,21,10170021,128,80,0.625,0,0,sin_error
+secded,16,0.01,22,10170022,128,80,0.625,3,0,corregido
+secded,16,0.01,23,10170023,128,80,0.625,3,0,ERROR doble_error_detectado
+secded,16,0.01,24,10170024,128,80,0.625,1,0,corregido
+secded,16,0.01,25,10170025,128,80,0.625,1,0,corregido
+secded,16,0.01,26,10170026,128,80,0.625,3,0,corregido
+secded,16,0.01,27,10170027,128,80,0.625,1,0,corregido
+secded,16,0.01,28,10170028,128,80,0.625,4,0,ERROR doble_error_detectado
+secded,16,0.01,29,10170029,128,80,0.625,3,0,corregido
+secded,16,0.05,0,10210000,128,80,0.625,9,0,ERROR doble_error_detectado
+secded,16,0.05,1,10210001,128,80,0.625,11,0,ERROR doble_error_detectado
+secded,16,0.05,2,10210002,128,80,0.625,10,1,corregido
+secded,16,0.05,3,10210003,128,80,0.625,8,0,ERROR doble_error_detectado
+secded,16,0.05,4,10210004,128,80,0.625,8,0,ERROR doble_error_detectado
+secded,16,0.05,5,10210005,128,80,0.625,15,2,ERROR doble_error_detectado
+secded,16,0.05,6,10210006,128,80,0.625,4,0,ERROR doble_error_detectado
+secded,16,0.05,7,10210007,128,80,0.625,8,0,ERROR doble_error_detectado
+secded,16,0.05,8,10210008,128,80,0.625,8,0,ERROR doble_error_detectado
+secded,16,0.05,9,10210009,128,80,0.625,18,2,corregido
+secded,16,0.05,10,10210010,128,80,0.625,15,1,ERROR doble_error_detectado
+secded,16,0.05,11,10210011,128,80,0.625,6,0,ERROR doble_error_detectado
+secded,16,0.05,12,10210012,128,80,0.625,11,1,corregido
+secded,16,0.05,13,10210013,128,80,0.625,8,0,ERROR doble_error_detectado
+secded,16,0.05,14,10210014,128,80,0.625,13,0,ERROR doble_error_detectado
+secded,16,0.05,15,10210015,128,80,0.625,9,0,ERROR doble_error_detectado
+secded,16,0.05,16,10210016,128,80,0.625,9,0,ERROR doble_error_detectado
+secded,16,0.05,17,10210017,128,80,0.625,7,0,ERROR doble_error_detectado
+secded,16,0.05,18,10210018,128,80,0.625,9,0,ERROR doble_error_detectado
+secded,16,0.05,19,10210019,128,80,0.625,7,0,ERROR doble_error_detectado
+secded,16,0.05,20,10210020,128,80,0.625,12,0,ERROR doble_error_detectado
+secded,16,0.05,21,10210021,128,80,0.625,5,0,ERROR doble_error_detectado
+secded,16,0.05,22,10210022,128,80,0.625,8,0,ERROR doble_error_detectado
+secded,16,0.05,23,10210023,128,80,0.625,9,0,ERROR doble_error_detectado
+secded,16,0.05,24,10210024,128,80,0.625,10,0,ERROR doble_error_detectado
+secded,16,0.05,25,10210025,128,80,0.625,18,2,ERROR doble_error_detectado
+secded,16,0.05,26,10210026,128,80,0.625,9,0,ERROR doble_error_detectado
+secded,16,0.05,27,10210027,128,80,0.625,8,0,corregido
+secded,16,0.05,28,10210028,128,80,0.625,7,1,corregido
+secded,16,0.05,29,10210029,128,80,0.625,11,0,ERROR doble_error_detectado
+secded,64,0.0,0,10640000,512,320,0.625,0,0,sin_error
+secded,64,0.0,1,10640001,512,320,0.625,0,0,sin_error
+secded,64,0.0,2,10640002,512,320,0.625,0,0,sin_error
+secded,64,0.0,3,10640003,512,320,0.625,0,0,sin_error
+secded,64,0.0,4,10640004,512,320,0.625,0,0,sin_error
+secded,64,0.0,5,10640005,512,320,0.625,0,0,sin_error
+secded,64,0.0,6,10640006,512,320,0.625,0,0,sin_error
+secded,64,0.0,7,10640007,512,320,0.625,0,0,sin_error
+secded,64,0.0,8,10640008,512,320,0.625,0,0,sin_error
+secded,64,0.0,9,10640009,512,320,0.625,0,0,sin_error
+secded,64,0.0,10,10640010,512,320,0.625,0,0,sin_error
+secded,64,0.0,11,10640011,512,320,0.625,0,0,sin_error
+secded,64,0.0,12,10640012,512,320,0.625,0,0,sin_error
+secded,64,0.0,13,10640013,512,320,0.625,0,0,sin_error
+secded,64,0.0,14,10640014,512,320,0.625,0,0,sin_error
+secded,64,0.0,15,10640015,512,320,0.625,0,0,sin_error
+secded,64,0.0,16,10640016,512,320,0.625,0,0,sin_error
+secded,64,0.0,17,10640017,512,320,0.625,0,0,sin_error
+secded,64,0.0,18,10640018,512,320,0.625,0,0,sin_error
+secded,64,0.0,19,10640019,512,320,0.625,0,0,sin_error
+secded,64,0.0,20,10640020,512,320,0.625,0,0,sin_error
+secded,64,0.0,21,10640021,512,320,0.625,0,0,sin_error
+secded,64,0.0,22,10640022,512,320,0.625,0,0,sin_error
+secded,64,0.0,23,10640023,512,320,0.625,0,0,sin_error
+secded,64,0.0,24,10640024,512,320,0.625,0,0,sin_error
+secded,64,0.0,25,10640025,512,320,0.625,0,0,sin_error
+secded,64,0.0,26,10640026,512,320,0.625,0,0,sin_error
+secded,64,0.0,27,10640027,512,320,0.625,0,0,sin_error
+secded,64,0.0,28,10640028,512,320,0.625,0,0,sin_error
+secded,64,0.0,29,10640029,512,320,0.625,0,0,sin_error
+secded,64,0.001,0,10641000,512,320,0.625,1,0,corregido
+secded,64,0.001,1,10641001,512,320,0.625,2,0,corregido
+secded,64,0.001,2,10641002,512,320,0.625,0,0,sin_error
+secded,64,0.001,3,10641003,512,320,0.625,1,0,corregido
+secded,64,0.001,4,10641004,512,320,0.625,0,0,sin_error
+secded,64,0.001,5,10641005,512,320,0.625,0,0,sin_error
+secded,64,0.001,6,10641006,512,320,0.625,0,0,sin_error
+secded,64,0.001,7,10641007,512,320,0.625,0,0,sin_error
+secded,64,0.001,8,10641008,512,320,0.625,0,0,sin_error
+secded,64,0.001,9,10641009,512,320,0.625,0,0,sin_error
+secded,64,0.001,10,10641010,512,320,0.625,1,0,corregido
+secded,64,0.001,11,10641011,512,320,0.625,0,0,sin_error
+secded,64,0.001,12,10641012,512,320,0.625,1,0,corregido
+secded,64,0.001,13,10641013,512,320,0.625,1,0,corregido
+secded,64,0.001,14,10641014,512,320,0.625,3,0,corregido
+secded,64,0.001,15,10641015,512,320,0.625,0,0,sin_error
+secded,64,0.001,16,10641016,512,320,0.625,1,0,corregido
+secded,64,0.001,17,10641017,512,320,0.625,0,0,sin_error
+secded,64,0.001,18,10641018,512,320,0.625,2,0,corregido
+secded,64,0.001,19,10641019,512,320,0.625,1,0,corregido
+secded,64,0.001,20,10641020,512,320,0.625,2,0,corregido
+secded,64,0.001,21,10641021,512,320,0.625,0,0,sin_error
+secded,64,0.001,22,10641022,512,320,0.625,0,0,sin_error
+secded,64,0.001,23,10641023,512,320,0.625,0,0,sin_error
+secded,64,0.001,24,10641024,512,320,0.625,1,0,corregido
+secded,64,0.001,25,10641025,512,320,0.625,3,0,ERROR doble_error_detectado
+secded,64,0.001,26,10641026,512,320,0.625,2,0,corregido
+secded,64,0.001,27,10641027,512,320,0.625,5,0,corregido
+secded,64,0.001,28,10641028,512,320,0.625,0,0,sin_error
+secded,64,0.001,29,10641029,512,320,0.625,2,0,corregido
+secded,64,0.01,0,10650000,512,320,0.625,11,0,ERROR doble_error_detectado
+secded,64,0.01,1,10650001,512,320,0.625,11,0,ERROR doble_error_detectado
+secded,64,0.01,2,10650002,512,320,0.625,4,0,corregido
+secded,64,0.01,3,10650003,512,320,0.625,10,0,corregido
+secded,64,0.01,4,10650004,512,320,0.625,5,0,corregido
+secded,64,0.01,5,10650005,512,320,0.625,3,0,corregido
+secded,64,0.01,6,10650006,512,320,0.625,6,0,corregido
+secded,64,0.01,7,10650007,512,320,0.625,11,0,ERROR doble_error_detectado
+secded,64,0.01,8,10650008,512,320,0.625,9,0,ERROR doble_error_detectado
+secded,64,0.01,9,10650009,512,320,0.625,7,0,corregido
+secded,64,0.01,10,10650010,512,320,0.625,4,0,ERROR doble_error_detectado
+secded,64,0.01,11,10650011,512,320,0.625,9,0,corregido
+secded,64,0.01,12,10650012,512,320,0.625,5,0,corregido
+secded,64,0.01,13,10650013,512,320,0.625,10,0,ERROR doble_error_detectado
+secded,64,0.01,14,10650014,512,320,0.625,6,0,corregido
+secded,64,0.01,15,10650015,512,320,0.625,9,0,corregido
+secded,64,0.01,16,10650016,512,320,0.625,7,0,corregido
+secded,64,0.01,17,10650017,512,320,0.625,12,0,ERROR doble_error_detectado
+secded,64,0.01,18,10650018,512,320,0.625,11,0,ERROR doble_error_detectado
+secded,64,0.01,19,10650019,512,320,0.625,5,0,ERROR doble_error_detectado
+secded,64,0.01,20,10650020,512,320,0.625,9,0,ERROR doble_error_detectado
+secded,64,0.01,21,10650021,512,320,0.625,10,0,corregido
+secded,64,0.01,22,10650022,512,320,0.625,10,0,ERROR doble_error_detectado
+secded,64,0.01,23,10650023,512,320,0.625,8,0,corregido
+secded,64,0.01,24,10650024,512,320,0.625,3,0,corregido
+secded,64,0.01,25,10650025,512,320,0.625,8,0,corregido
+secded,64,0.01,26,10650026,512,320,0.625,8,0,corregido
+secded,64,0.01,27,10650027,512,320,0.625,8,0,corregido
+secded,64,0.01,28,10650028,512,320,0.625,10,0,corregido
+secded,64,0.01,29,10650029,512,320,0.625,14,0,ERROR doble_error_detectado
+secded,64,0.05,0,10690000,512,320,0.625,44,5,ERROR doble_error_detectado
+secded,64,0.05,1,10690001,512,320,0.625,41,1,ERROR doble_error_detectado
+secded,64,0.05,2,10690002,512,320,0.625,31,0,ERROR doble_error_detectado
+secded,64,0.05,3,10690003,512,320,0.625,38,2,ERROR doble_error_detectado
+secded,64,0.05,4,10690004,512,320,0.625,28,0,ERROR doble_error_detectado
+secded,64,0.05,5,10690005,512,320,0.625,47,1,ERROR doble_error_detectado
+secded,64,0.05,6,10690006,512,320,0.625,48,3,ERROR doble_error_detectado
+secded,64,0.05,7,10690007,512,320,0.625,31,0,ERROR doble_error_detectado
+secded,64,0.05,8,10690008,512,320,0.625,44,1,ERROR doble_error_detectado
+secded,64,0.05,9,10690009,512,320,0.625,41,1,ERROR doble_error_detectado
+secded,64,0.05,10,10690010,512,320,0.625,54,1,ERROR doble_error_detectado
+secded,64,0.05,11,10690011,512,320,0.625,49,0,ERROR doble_error_detectado
+secded,64,0.05,12,10690012,512,320,0.625,49,4,ERROR doble_error_detectado
+secded,64,0.05,13,10690013,512,320,0.625,43,2,ERROR doble_error_detectado
+secded,64,0.05,14,10690014,512,320,0.625,41,2,ERROR doble_error_detectado
+secded,64,0.05,15,10690015,512,320,0.625,44,3,ERROR doble_error_detectado
+secded,64,0.05,16,10690016,512,320,0.625,46,0,ERROR doble_error_detectado
+secded,64,0.05,17,10690017,512,320,0.625,36,1,ERROR doble_error_detectado
+secded,64,0.05,18,10690018,512,320,0.625,50,1,ERROR doble_error_detectado
+secded,64,0.05,19,10690019,512,320,0.625,47,3,ERROR doble_error_detectado
+secded,64,0.05,20,10690020,512,320,0.625,43,1,ERROR doble_error_detectado
+secded,64,0.05,21,10690021,512,320,0.625,38,2,ERROR doble_error_detectado
+secded,64,0.05,22,10690022,512,320,0.625,44,1,ERROR doble_error_detectado
+secded,64,0.05,23,10690023,512,320,0.625,45,2,ERROR doble_error_detectado
+secded,64,0.05,24,10690024,512,320,0.625,46,3,ERROR doble_error_detectado
+secded,64,0.05,25,10690025,512,320,0.625,33,2,ERROR doble_error_detectado
+secded,64,0.05,26,10690026,512,320,0.625,41,1,ERROR doble_error_detectado
+secded,64,0.05,27,10690027,512,320,0.625,51,4,ERROR doble_error_detectado
+secded,64,0.05,28,10690028,512,320,0.625,35,1,ERROR doble_error_detectado
+secded,64,0.05,29,10690029,512,320,0.625,45,1,ERROR doble_error_detectado
+secded,256,0.0,0,12560000,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,1,12560001,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,2,12560002,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,3,12560003,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,4,12560004,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,5,12560005,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,6,12560006,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,7,12560007,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,8,12560008,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,9,12560009,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,10,12560010,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,11,12560011,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,12,12560012,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,13,12560013,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,14,12560014,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,15,12560015,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,16,12560016,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,17,12560017,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,18,12560018,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,19,12560019,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,20,12560020,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,21,12560021,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,22,12560022,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,23,12560023,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,24,12560024,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,25,12560025,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,26,12560026,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,27,12560027,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,28,12560028,2048,1280,0.625,0,0,sin_error
+secded,256,0.0,29,12560029,2048,1280,0.625,0,0,sin_error
+secded,256,0.001,0,12561000,2048,1280,0.625,4,0,corregido
+secded,256,0.001,1,12561001,2048,1280,0.625,4,0,corregido
+secded,256,0.001,2,12561002,2048,1280,0.625,6,0,corregido
+secded,256,0.001,3,12561003,2048,1280,0.625,4,0,corregido
+secded,256,0.001,4,12561004,2048,1280,0.625,4,0,corregido
+secded,256,0.001,5,12561005,2048,1280,0.625,2,0,corregido
+secded,256,0.001,6,12561006,2048,1280,0.625,3,0,corregido
+secded,256,0.001,7,12561007,2048,1280,0.625,2,0,corregido
+secded,256,0.001,8,12561008,2048,1280,0.625,2,0,corregido
+secded,256,0.001,9,12561009,2048,1280,0.625,3,0,corregido
+secded,256,0.001,10,12561010,2048,1280,0.625,3,0,corregido
+secded,256,0.001,11,12561011,2048,1280,0.625,5,0,corregido
+secded,256,0.001,12,12561012,2048,1280,0.625,6,0,corregido
+secded,256,0.001,13,12561013,2048,1280,0.625,2,0,corregido
+secded,256,0.001,14,12561014,2048,1280,0.625,6,0,corregido
+secded,256,0.001,15,12561015,2048,1280,0.625,3,0,corregido
+secded,256,0.001,16,12561016,2048,1280,0.625,3,0,corregido
+secded,256,0.001,17,12561017,2048,1280,0.625,1,0,corregido
+secded,256,0.001,18,12561018,2048,1280,0.625,3,0,corregido
+secded,256,0.001,19,12561019,2048,1280,0.625,2,0,corregido
+secded,256,0.001,20,12561020,2048,1280,0.625,2,0,corregido
+secded,256,0.001,21,12561021,2048,1280,0.625,3,0,corregido
+secded,256,0.001,22,12561022,2048,1280,0.625,2,0,corregido
+secded,256,0.001,23,12561023,2048,1280,0.625,4,0,corregido
+secded,256,0.001,24,12561024,2048,1280,0.625,3,0,corregido
+secded,256,0.001,25,12561025,2048,1280,0.625,5,0,corregido
+secded,256,0.001,26,12561026,2048,1280,0.625,3,0,corregido
+secded,256,0.001,27,12561027,2048,1280,0.625,5,0,corregido
+secded,256,0.001,28,12561028,2048,1280,0.625,5,0,corregido
+secded,256,0.001,29,12561029,2048,1280,0.625,5,0,corregido
+secded,256,0.01,0,12570000,2048,1280,0.625,25,0,corregido
+secded,256,0.01,1,12570001,2048,1280,0.625,24,0,ERROR doble_error_detectado
+secded,256,0.01,2,12570002,2048,1280,0.625,29,0,ERROR doble_error_detectado
+secded,256,0.01,3,12570003,2048,1280,0.625,35,0,ERROR doble_error_detectado
+secded,256,0.01,4,12570004,2048,1280,0.625,37,0,ERROR doble_error_detectado
+secded,256,0.01,5,12570005,2048,1280,0.625,47,0,ERROR doble_error_detectado
+secded,256,0.01,6,12570006,2048,1280,0.625,28,0,ERROR doble_error_detectado
+secded,256,0.01,7,12570007,2048,1280,0.625,35,0,ERROR doble_error_detectado
+secded,256,0.01,8,12570008,2048,1280,0.625,41,0,ERROR doble_error_detectado
+secded,256,0.01,9,12570009,2048,1280,0.625,45,0,ERROR doble_error_detectado
+secded,256,0.01,10,12570010,2048,1280,0.625,26,0,ERROR doble_error_detectado
+secded,256,0.01,11,12570011,2048,1280,0.625,30,0,ERROR doble_error_detectado
+secded,256,0.01,12,12570012,2048,1280,0.625,42,0,ERROR doble_error_detectado
+secded,256,0.01,13,12570013,2048,1280,0.625,33,0,ERROR doble_error_detectado
+secded,256,0.01,14,12570014,2048,1280,0.625,36,0,ERROR doble_error_detectado
+secded,256,0.01,15,12570015,2048,1280,0.625,38,0,ERROR doble_error_detectado
+secded,256,0.01,16,12570016,2048,1280,0.625,30,0,corregido
+secded,256,0.01,17,12570017,2048,1280,0.625,26,0,ERROR doble_error_detectado
+secded,256,0.01,18,12570018,2048,1280,0.625,29,0,corregido
+secded,256,0.01,19,12570019,2048,1280,0.625,34,0,ERROR doble_error_detectado
+secded,256,0.01,20,12570020,2048,1280,0.625,37,1,corregido
+secded,256,0.01,21,12570021,2048,1280,0.625,41,0,corregido
+secded,256,0.01,22,12570022,2048,1280,0.625,33,0,ERROR doble_error_detectado
+secded,256,0.01,23,12570023,2048,1280,0.625,31,0,ERROR doble_error_detectado
+secded,256,0.01,24,12570024,2048,1280,0.625,26,1,corregido
+secded,256,0.01,25,12570025,2048,1280,0.625,39,0,ERROR doble_error_detectado
+secded,256,0.01,26,12570026,2048,1280,0.625,47,0,ERROR doble_error_detectado
+secded,256,0.01,27,12570027,2048,1280,0.625,37,0,ERROR doble_error_detectado
+secded,256,0.01,28,12570028,2048,1280,0.625,36,0,corregido
+secded,256,0.01,29,12570029,2048,1280,0.625,34,0,ERROR doble_error_detectado
+secded,256,0.05,0,12610000,2048,1280,0.625,162,3,ERROR doble_error_detectado
+secded,256,0.05,1,12610001,2048,1280,0.625,173,5,ERROR doble_error_detectado
+secded,256,0.05,2,12610002,2048,1280,0.625,157,2,ERROR doble_error_detectado
+secded,256,0.05,3,12610003,2048,1280,0.625,178,5,ERROR doble_error_detectado
+secded,256,0.05,4,12610004,2048,1280,0.625,161,5,ERROR doble_error_detectado
+secded,256,0.05,5,12610005,2048,1280,0.625,165,6,ERROR doble_error_detectado
+secded,256,0.05,6,12610006,2048,1280,0.625,173,6,ERROR doble_error_detectado
+secded,256,0.05,7,12610007,2048,1280,0.625,159,4,ERROR doble_error_detectado
+secded,256,0.05,8,12610008,2048,1280,0.625,155,4,ERROR doble_error_detectado
+secded,256,0.05,9,12610009,2048,1280,0.625,172,7,ERROR doble_error_detectado
+secded,256,0.05,10,12610010,2048,1280,0.625,181,7,ERROR doble_error_detectado
+secded,256,0.05,11,12610011,2048,1280,0.625,150,6,ERROR doble_error_detectado
+secded,256,0.05,12,12610012,2048,1280,0.625,172,6,ERROR doble_error_detectado
+secded,256,0.05,13,12610013,2048,1280,0.625,184,10,ERROR doble_error_detectado
+secded,256,0.05,14,12610014,2048,1280,0.625,168,8,ERROR doble_error_detectado
+secded,256,0.05,15,12610015,2048,1280,0.625,159,7,ERROR doble_error_detectado
+secded,256,0.05,16,12610016,2048,1280,0.625,169,6,ERROR doble_error_detectado
+secded,256,0.05,17,12610017,2048,1280,0.625,168,4,ERROR doble_error_detectado
+secded,256,0.05,18,12610018,2048,1280,0.625,166,9,ERROR doble_error_detectado
+secded,256,0.05,19,12610019,2048,1280,0.625,170,4,ERROR doble_error_detectado
+secded,256,0.05,20,12610020,2048,1280,0.625,174,9,ERROR doble_error_detectado
+secded,256,0.05,21,12610021,2048,1280,0.625,155,5,ERROR doble_error_detectado
+secded,256,0.05,22,12610022,2048,1280,0.625,159,3,ERROR doble_error_detectado
+secded,256,0.05,23,12610023,2048,1280,0.625,169,5,ERROR doble_error_detectado
+secded,256,0.05,24,12610024,2048,1280,0.625,170,4,ERROR doble_error_detectado
+secded,256,0.05,25,12610025,2048,1280,0.625,151,4,ERROR doble_error_detectado
+secded,256,0.05,26,12610026,2048,1280,0.625,146,7,ERROR doble_error_detectado
+secded,256,0.05,27,12610027,2048,1280,0.625,155,7,ERROR doble_error_detectado
+secded,256,0.05,28,12610028,2048,1280,0.625,161,2,ERROR doble_error_detectado
+secded,256,0.05,29,12610029,2048,1280,0.625,172,6,ERROR doble_error_detectado
+secded,1024,0.0,0,20240000,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,1,20240001,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,2,20240002,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,3,20240003,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,4,20240004,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,5,20240005,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,6,20240006,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,7,20240007,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,8,20240008,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,9,20240009,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,10,20240010,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,11,20240011,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,12,20240012,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,13,20240013,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,14,20240014,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,15,20240015,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,16,20240016,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,17,20240017,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,18,20240018,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,19,20240019,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,20,20240020,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,21,20240021,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,22,20240022,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,23,20240023,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,24,20240024,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,25,20240025,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,26,20240026,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,27,20240027,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,28,20240028,8192,5120,0.625,0,0,sin_error
+secded,1024,0.0,29,20240029,8192,5120,0.625,0,0,sin_error
+secded,1024,0.001,0,20241000,8192,5120,0.625,13,0,corregido
+secded,1024,0.001,1,20241001,8192,5120,0.625,19,0,corregido
+secded,1024,0.001,2,20241002,8192,5120,0.625,16,0,corregido
+secded,1024,0.001,3,20241003,8192,5120,0.625,14,0,corregido
+secded,1024,0.001,4,20241004,8192,5120,0.625,16,0,corregido
+secded,1024,0.001,5,20241005,8192,5120,0.625,10,0,corregido
+secded,1024,0.001,6,20241006,8192,5120,0.625,13,0,corregido
+secded,1024,0.001,7,20241007,8192,5120,0.625,13,0,corregido
+secded,1024,0.001,8,20241008,8192,5120,0.625,11,0,corregido
+secded,1024,0.001,9,20241009,8192,5120,0.625,17,0,corregido
+secded,1024,0.001,10,20241010,8192,5120,0.625,12,0,corregido
+secded,1024,0.001,11,20241011,8192,5120,0.625,17,0,corregido
+secded,1024,0.001,12,20241012,8192,5120,0.625,14,0,corregido
+secded,1024,0.001,13,20241013,8192,5120,0.625,9,0,corregido
+secded,1024,0.001,14,20241014,8192,5120,0.625,12,0,corregido
+secded,1024,0.001,15,20241015,8192,5120,0.625,17,0,corregido
+secded,1024,0.001,16,20241016,8192,5120,0.625,12,0,corregido
+secded,1024,0.001,17,20241017,8192,5120,0.625,10,0,corregido
+secded,1024,0.001,18,20241018,8192,5120,0.625,12,0,corregido
+secded,1024,0.001,19,20241019,8192,5120,0.625,11,0,corregido
+secded,1024,0.001,20,20241020,8192,5120,0.625,13,0,corregido
+secded,1024,0.001,21,20241021,8192,5120,0.625,16,0,ERROR doble_error_detectado
+secded,1024,0.001,22,20241022,8192,5120,0.625,11,0,corregido
+secded,1024,0.001,23,20241023,8192,5120,0.625,16,0,corregido
+secded,1024,0.001,24,20241024,8192,5120,0.625,15,0,ERROR doble_error_detectado
+secded,1024,0.001,25,20241025,8192,5120,0.625,14,0,corregido
+secded,1024,0.001,26,20241026,8192,5120,0.625,13,0,corregido
+secded,1024,0.001,27,20241027,8192,5120,0.625,18,0,corregido
+secded,1024,0.001,28,20241028,8192,5120,0.625,10,0,corregido
+secded,1024,0.001,29,20241029,8192,5120,0.625,7,0,corregido
+secded,1024,0.01,0,20250000,8192,5120,0.625,158,0,ERROR doble_error_detectado
+secded,1024,0.01,1,20250001,8192,5120,0.625,132,0,ERROR doble_error_detectado
+secded,1024,0.01,2,20250002,8192,5120,0.625,140,1,ERROR doble_error_detectado
+secded,1024,0.01,3,20250003,8192,5120,0.625,155,1,ERROR doble_error_detectado
+secded,1024,0.01,4,20250004,8192,5120,0.625,135,0,ERROR doble_error_detectado
+secded,1024,0.01,5,20250005,8192,5120,0.625,125,0,ERROR doble_error_detectado
+secded,1024,0.01,6,20250006,8192,5120,0.625,140,0,ERROR doble_error_detectado
+secded,1024,0.01,7,20250007,8192,5120,0.625,144,0,ERROR doble_error_detectado
+secded,1024,0.01,8,20250008,8192,5120,0.625,141,1,ERROR doble_error_detectado
+secded,1024,0.01,9,20250009,8192,5120,0.625,134,1,ERROR doble_error_detectado
+secded,1024,0.01,10,20250010,8192,5120,0.625,163,0,ERROR doble_error_detectado
+secded,1024,0.01,11,20250011,8192,5120,0.625,138,0,ERROR doble_error_detectado
+secded,1024,0.01,12,20250012,8192,5120,0.625,141,0,ERROR doble_error_detectado
+secded,1024,0.01,13,20250013,8192,5120,0.625,112,0,ERROR doble_error_detectado
+secded,1024,0.01,14,20250014,8192,5120,0.625,122,0,ERROR doble_error_detectado
+secded,1024,0.01,15,20250015,8192,5120,0.625,144,0,ERROR doble_error_detectado
+secded,1024,0.01,16,20250016,8192,5120,0.625,145,0,ERROR doble_error_detectado
+secded,1024,0.01,17,20250017,8192,5120,0.625,98,0,ERROR doble_error_detectado
+secded,1024,0.01,18,20250018,8192,5120,0.625,142,0,ERROR doble_error_detectado
+secded,1024,0.01,19,20250019,8192,5120,0.625,148,0,ERROR doble_error_detectado
+secded,1024,0.01,20,20250020,8192,5120,0.625,132,0,ERROR doble_error_detectado
+secded,1024,0.01,21,20250021,8192,5120,0.625,118,0,ERROR doble_error_detectado
+secded,1024,0.01,22,20250022,8192,5120,0.625,143,0,ERROR doble_error_detectado
+secded,1024,0.01,23,20250023,8192,5120,0.625,138,0,ERROR doble_error_detectado
+secded,1024,0.01,24,20250024,8192,5120,0.625,134,1,ERROR doble_error_detectado
+secded,1024,0.01,25,20250025,8192,5120,0.625,118,0,ERROR doble_error_detectado
+secded,1024,0.01,26,20250026,8192,5120,0.625,128,0,ERROR doble_error_detectado
+secded,1024,0.01,27,20250027,8192,5120,0.625,147,0,ERROR doble_error_detectado
+secded,1024,0.01,28,20250028,8192,5120,0.625,124,0,ERROR doble_error_detectado
+secded,1024,0.01,29,20250029,8192,5120,0.625,135,0,ERROR doble_error_detectado
+secded,1024,0.05,0,20290000,8192,5120,0.625,696,39,ERROR doble_error_detectado
+secded,1024,0.05,1,20290001,8192,5120,0.625,638,20,ERROR doble_error_detectado
+secded,1024,0.05,2,20290002,8192,5120,0.625,636,21,ERROR doble_error_detectado
+secded,1024,0.05,3,20290003,8192,5120,0.625,659,17,ERROR doble_error_detectado
+secded,1024,0.05,4,20290004,8192,5120,0.625,664,28,ERROR doble_error_detectado
+secded,1024,0.05,5,20290005,8192,5120,0.625,685,33,ERROR doble_error_detectado
+secded,1024,0.05,6,20290006,8192,5120,0.625,646,23,ERROR doble_error_detectado
+secded,1024,0.05,7,20290007,8192,5120,0.625,679,25,ERROR doble_error_detectado
+secded,1024,0.05,8,20290008,8192,5120,0.625,692,24,ERROR doble_error_detectado
+secded,1024,0.05,9,20290009,8192,5120,0.625,705,23,ERROR doble_error_detectado
+secded,1024,0.05,10,20290010,8192,5120,0.625,646,20,ERROR doble_error_detectado
+secded,1024,0.05,11,20290011,8192,5120,0.625,658,19,ERROR doble_error_detectado
+secded,1024,0.05,12,20290012,8192,5120,0.625,658,31,ERROR doble_error_detectado
+secded,1024,0.05,13,20290013,8192,5120,0.625,632,26,ERROR doble_error_detectado
+secded,1024,0.05,14,20290014,8192,5120,0.625,657,16,ERROR doble_error_detectado
+secded,1024,0.05,15,20290015,8192,5120,0.625,639,22,ERROR doble_error_detectado
+secded,1024,0.05,16,20290016,8192,5120,0.625,630,20,ERROR doble_error_detectado
+secded,1024,0.05,17,20290017,8192,5120,0.625,679,21,ERROR doble_error_detectado
+secded,1024,0.05,18,20290018,8192,5120,0.625,653,28,ERROR doble_error_detectado
+secded,1024,0.05,19,20290019,8192,5120,0.625,679,25,ERROR doble_error_detectado
+secded,1024,0.05,20,20290020,8192,5120,0.625,707,34,ERROR doble_error_detectado
+secded,1024,0.05,21,20290021,8192,5120,0.625,658,24,ERROR doble_error_detectado
+secded,1024,0.05,22,20290022,8192,5120,0.625,655,13,ERROR doble_error_detectado
+secded,1024,0.05,23,20290023,8192,5120,0.625,695,28,ERROR doble_error_detectado
+secded,1024,0.05,24,20290024,8192,5120,0.625,692,34,ERROR doble_error_detectado
+secded,1024,0.05,25,20290025,8192,5120,0.625,681,23,ERROR doble_error_detectado
+secded,1024,0.05,26,20290026,8192,5120,0.625,738,40,ERROR doble_error_detectado
+secded,1024,0.05,27,20290027,8192,5120,0.625,736,26,ERROR doble_error_detectado
+secded,1024,0.05,28,20290028,8192,5120,0.625,616,23,ERROR doble_error_detectado
+secded,1024,0.05,29,20290029,8192,5120,0.625,734,46,ERROR doble_error_detectado
+secded,4096,0.0,0,50960000,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,1,50960001,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,2,50960002,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,3,50960003,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,4,50960004,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,5,50960005,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,6,50960006,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,7,50960007,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,8,50960008,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,9,50960009,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,10,50960010,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,11,50960011,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,12,50960012,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,13,50960013,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,14,50960014,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,15,50960015,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,16,50960016,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,17,50960017,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,18,50960018,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,19,50960019,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,20,50960020,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,21,50960021,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,22,50960022,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,23,50960023,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,24,50960024,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,25,50960025,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,26,50960026,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,27,50960027,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,28,50960028,32768,20480,0.625,0,0,sin_error
+secded,4096,0.0,29,50960029,32768,20480,0.625,0,0,sin_error
+secded,4096,0.001,0,50961000,32768,20480,0.625,44,0,ERROR doble_error_detectado
+secded,4096,0.001,1,50961001,32768,20480,0.625,62,0,corregido
+secded,4096,0.001,2,50961002,32768,20480,0.625,50,0,corregido
+secded,4096,0.001,3,50961003,32768,20480,0.625,54,0,corregido
+secded,4096,0.001,4,50961004,32768,20480,0.625,46,0,ERROR doble_error_detectado
+secded,4096,0.001,5,50961005,32768,20480,0.625,54,0,corregido
+secded,4096,0.001,6,50961006,32768,20480,0.625,54,0,corregido
+secded,4096,0.001,7,50961007,32768,20480,0.625,55,0,corregido
+secded,4096,0.001,8,50961008,32768,20480,0.625,63,0,corregido
+secded,4096,0.001,9,50961009,32768,20480,0.625,47,0,corregido
+secded,4096,0.001,10,50961010,32768,20480,0.625,55,0,ERROR doble_error_detectado
+secded,4096,0.001,11,50961011,32768,20480,0.625,46,0,corregido
+secded,4096,0.001,12,50961012,32768,20480,0.625,55,0,ERROR doble_error_detectado
+secded,4096,0.001,13,50961013,32768,20480,0.625,44,0,ERROR doble_error_detectado
+secded,4096,0.001,14,50961014,32768,20480,0.625,53,0,ERROR doble_error_detectado
+secded,4096,0.001,15,50961015,32768,20480,0.625,49,0,corregido
+secded,4096,0.001,16,50961016,32768,20480,0.625,69,0,corregido
+secded,4096,0.001,17,50961017,32768,20480,0.625,47,0,corregido
+secded,4096,0.001,18,50961018,32768,20480,0.625,52,0,ERROR doble_error_detectado
+secded,4096,0.001,19,50961019,32768,20480,0.625,44,0,ERROR doble_error_detectado
+secded,4096,0.001,20,50961020,32768,20480,0.625,55,0,corregido
+secded,4096,0.001,21,50961021,32768,20480,0.625,45,0,corregido
+secded,4096,0.001,22,50961022,32768,20480,0.625,45,0,corregido
+secded,4096,0.001,23,50961023,32768,20480,0.625,53,0,ERROR doble_error_detectado
+secded,4096,0.001,24,50961024,32768,20480,0.625,60,0,corregido
+secded,4096,0.001,25,50961025,32768,20480,0.625,56,0,corregido
+secded,4096,0.001,26,50961026,32768,20480,0.625,50,0,corregido
+secded,4096,0.001,27,50961027,32768,20480,0.625,56,0,ERROR doble_error_detectado
+secded,4096,0.001,28,50961028,32768,20480,0.625,61,0,corregido
+secded,4096,0.001,29,50961029,32768,20480,0.625,38,0,corregido
+secded,4096,0.01,0,50970000,32768,20480,0.625,574,0,ERROR doble_error_detectado
+secded,4096,0.01,1,50970001,32768,20480,0.625,513,2,ERROR doble_error_detectado
+secded,4096,0.01,2,50970002,32768,20480,0.625,535,1,ERROR doble_error_detectado
+secded,4096,0.01,3,50970003,32768,20480,0.625,506,1,ERROR doble_error_detectado
+secded,4096,0.01,4,50970004,32768,20480,0.625,528,1,ERROR doble_error_detectado
+secded,4096,0.01,5,50970005,32768,20480,0.625,502,1,ERROR doble_error_detectado
+secded,4096,0.01,6,50970006,32768,20480,0.625,488,0,ERROR doble_error_detectado
+secded,4096,0.01,7,50970007,32768,20480,0.625,576,2,ERROR doble_error_detectado
+secded,4096,0.01,8,50970008,32768,20480,0.625,537,0,ERROR doble_error_detectado
+secded,4096,0.01,9,50970009,32768,20480,0.625,520,1,ERROR doble_error_detectado
+secded,4096,0.01,10,50970010,32768,20480,0.625,520,1,ERROR doble_error_detectado
+secded,4096,0.01,11,50970011,32768,20480,0.625,538,1,ERROR doble_error_detectado
+secded,4096,0.01,12,50970012,32768,20480,0.625,485,0,ERROR doble_error_detectado
+secded,4096,0.01,13,50970013,32768,20480,0.625,509,1,ERROR doble_error_detectado
+secded,4096,0.01,14,50970014,32768,20480,0.625,572,1,ERROR doble_error_detectado
+secded,4096,0.01,15,50970015,32768,20480,0.625,527,0,ERROR doble_error_detectado
+secded,4096,0.01,16,50970016,32768,20480,0.625,593,3,ERROR doble_error_detectado
+secded,4096,0.01,17,50970017,32768,20480,0.625,541,0,ERROR doble_error_detectado
+secded,4096,0.01,18,50970018,32768,20480,0.625,550,2,ERROR doble_error_detectado
+secded,4096,0.01,19,50970019,32768,20480,0.625,530,0,ERROR doble_error_detectado
+secded,4096,0.01,20,50970020,32768,20480,0.625,524,0,ERROR doble_error_detectado
+secded,4096,0.01,21,50970021,32768,20480,0.625,522,0,ERROR doble_error_detectado
+secded,4096,0.01,22,50970022,32768,20480,0.625,541,1,ERROR doble_error_detectado
+secded,4096,0.01,23,50970023,32768,20480,0.625,521,1,ERROR doble_error_detectado
+secded,4096,0.01,24,50970024,32768,20480,0.625,527,3,ERROR doble_error_detectado
+secded,4096,0.01,25,50970025,32768,20480,0.625,515,2,ERROR doble_error_detectado
+secded,4096,0.01,26,50970026,32768,20480,0.625,546,3,ERROR doble_error_detectado
+secded,4096,0.01,27,50970027,32768,20480,0.625,535,2,ERROR doble_error_detectado
+secded,4096,0.01,28,50970028,32768,20480,0.625,516,2,ERROR doble_error_detectado
+secded,4096,0.01,29,50970029,32768,20480,0.625,540,1,ERROR doble_error_detectado
+secded,4096,0.05,0,51010000,32768,20480,0.625,2697,101,ERROR doble_error_detectado
+secded,4096,0.05,1,51010001,32768,20480,0.625,2557,81,ERROR doble_error_detectado
+secded,4096,0.05,2,51010002,32768,20480,0.625,2636,107,ERROR doble_error_detectado
+secded,4096,0.05,3,51010003,32768,20480,0.625,2668,110,ERROR doble_error_detectado
+secded,4096,0.05,4,51010004,32768,20480,0.625,2663,110,ERROR doble_error_detectado
+secded,4096,0.05,5,51010005,32768,20480,0.625,2649,103,ERROR doble_error_detectado
+secded,4096,0.05,6,51010006,32768,20480,0.625,2666,114,ERROR doble_error_detectado
+secded,4096,0.05,7,51010007,32768,20480,0.625,2691,97,ERROR doble_error_detectado
+secded,4096,0.05,8,51010008,32768,20480,0.625,2723,101,ERROR doble_error_detectado
+secded,4096,0.05,9,51010009,32768,20480,0.625,2653,117,ERROR doble_error_detectado
+secded,4096,0.05,10,51010010,32768,20480,0.625,2607,82,ERROR doble_error_detectado
+secded,4096,0.05,11,51010011,32768,20480,0.625,2681,113,ERROR doble_error_detectado
+secded,4096,0.05,12,51010012,32768,20480,0.625,2661,98,ERROR doble_error_detectado
+secded,4096,0.05,13,51010013,32768,20480,0.625,2686,97,ERROR doble_error_detectado
+secded,4096,0.05,14,51010014,32768,20480,0.625,2574,76,ERROR doble_error_detectado
+secded,4096,0.05,15,51010015,32768,20480,0.625,2737,123,ERROR doble_error_detectado
+secded,4096,0.05,16,51010016,32768,20480,0.625,2649,107,ERROR doble_error_detectado
+secded,4096,0.05,17,51010017,32768,20480,0.625,2607,98,ERROR doble_error_detectado
+secded,4096,0.05,18,51010018,32768,20480,0.625,2611,90,ERROR doble_error_detectado
+secded,4096,0.05,19,51010019,32768,20480,0.625,2670,84,ERROR doble_error_detectado
+secded,4096,0.05,20,51010020,32768,20480,0.625,2637,93,ERROR doble_error_detectado
+secded,4096,0.05,21,51010021,32768,20480,0.625,2656,106,ERROR doble_error_detectado
+secded,4096,0.05,22,51010022,32768,20480,0.625,2609,98,ERROR doble_error_detectado
+secded,4096,0.05,23,51010023,32768,20480,0.625,2689,100,ERROR doble_error_detectado
+secded,4096,0.05,24,51010024,32768,20480,0.625,2588,101,ERROR doble_error_detectado
+secded,4096,0.05,25,51010025,32768,20480,0.625,2606,112,ERROR doble_error_detectado
+secded,4096,0.05,26,51010026,32768,20480,0.625,2679,103,ERROR doble_error_detectado
+secded,4096,0.05,27,51010027,32768,20480,0.625,2617,102,ERROR doble_error_detectado
+secded,4096,0.05,28,51010028,32768,20480,0.625,2742,106,ERROR doble_error_detectado
+secded,4096,0.05,29,51010029,32768,20480,0.625,2528,89,ERROR doble_error_detectado
+crc32,16,0.0,0,20160000,128,32,0.25,0,0,sin_error
+crc32,16,0.0,1,20160001,128,32,0.25,0,0,sin_error
+crc32,16,0.0,2,20160002,128,32,0.25,0,0,sin_error
+crc32,16,0.0,3,20160003,128,32,0.25,0,0,sin_error
+crc32,16,0.0,4,20160004,128,32,0.25,0,0,sin_error
+crc32,16,0.0,5,20160005,128,32,0.25,0,0,sin_error
+crc32,16,0.0,6,20160006,128,32,0.25,0,0,sin_error
+crc32,16,0.0,7,20160007,128,32,0.25,0,0,sin_error
+crc32,16,0.0,8,20160008,128,32,0.25,0,0,sin_error
+crc32,16,0.0,9,20160009,128,32,0.25,0,0,sin_error
+crc32,16,0.0,10,20160010,128,32,0.25,0,0,sin_error
+crc32,16,0.0,11,20160011,128,32,0.25,0,0,sin_error
+crc32,16,0.0,12,20160012,128,32,0.25,0,0,sin_error
+crc32,16,0.0,13,20160013,128,32,0.25,0,0,sin_error
+crc32,16,0.0,14,20160014,128,32,0.25,0,0,sin_error
+crc32,16,0.0,15,20160015,128,32,0.25,0,0,sin_error
+crc32,16,0.0,16,20160016,128,32,0.25,0,0,sin_error
+crc32,16,0.0,17,20160017,128,32,0.25,0,0,sin_error
+crc32,16,0.0,18,20160018,128,32,0.25,0,0,sin_error
+crc32,16,0.0,19,20160019,128,32,0.25,0,0,sin_error
+crc32,16,0.0,20,20160020,128,32,0.25,0,0,sin_error
+crc32,16,0.0,21,20160021,128,32,0.25,0,0,sin_error
+crc32,16,0.0,22,20160022,128,32,0.25,0,0,sin_error
+crc32,16,0.0,23,20160023,128,32,0.25,0,0,sin_error
+crc32,16,0.0,24,20160024,128,32,0.25,0,0,sin_error
+crc32,16,0.0,25,20160025,128,32,0.25,0,0,sin_error
+crc32,16,0.0,26,20160026,128,32,0.25,0,0,sin_error
+crc32,16,0.0,27,20160027,128,32,0.25,0,0,sin_error
+crc32,16,0.0,28,20160028,128,32,0.25,0,0,sin_error
+crc32,16,0.0,29,20160029,128,32,0.25,0,0,sin_error
+crc32,16,0.001,0,20161000,128,32,0.25,0,0,sin_error
+crc32,16,0.001,1,20161001,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.001,2,20161002,128,32,0.25,0,0,sin_error
+crc32,16,0.001,3,20161003,128,32,0.25,0,0,sin_error
+crc32,16,0.001,4,20161004,128,32,0.25,0,0,sin_error
+crc32,16,0.001,5,20161005,128,32,0.25,0,0,sin_error
+crc32,16,0.001,6,20161006,128,32,0.25,0,0,sin_error
+crc32,16,0.001,7,20161007,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.001,8,20161008,128,32,0.25,0,0,sin_error
+crc32,16,0.001,9,20161009,128,32,0.25,0,0,sin_error
+crc32,16,0.001,10,20161010,128,32,0.25,0,0,sin_error
+crc32,16,0.001,11,20161011,128,32,0.25,0,0,sin_error
+crc32,16,0.001,12,20161012,128,32,0.25,0,0,sin_error
+crc32,16,0.001,13,20161013,128,32,0.25,0,0,sin_error
+crc32,16,0.001,14,20161014,128,32,0.25,0,0,sin_error
+crc32,16,0.001,15,20161015,128,32,0.25,0,0,sin_error
+crc32,16,0.001,16,20161016,128,32,0.25,0,0,sin_error
+crc32,16,0.001,17,20161017,128,32,0.25,0,0,sin_error
+crc32,16,0.001,18,20161018,128,32,0.25,0,0,sin_error
+crc32,16,0.001,19,20161019,128,32,0.25,0,0,sin_error
+crc32,16,0.001,20,20161020,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.001,21,20161021,128,32,0.25,0,0,sin_error
+crc32,16,0.001,22,20161022,128,32,0.25,0,0,sin_error
+crc32,16,0.001,23,20161023,128,32,0.25,0,0,sin_error
+crc32,16,0.001,24,20161024,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.001,25,20161025,128,32,0.25,0,0,sin_error
+crc32,16,0.001,26,20161026,128,32,0.25,0,0,sin_error
+crc32,16,0.001,27,20161027,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.001,28,20161028,128,32,0.25,0,0,sin_error
+crc32,16,0.001,29,20161029,128,32,0.25,0,0,sin_error
+crc32,16,0.01,0,20170000,128,32,0.25,4,0,ERROR crc_error
+crc32,16,0.01,1,20170001,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,2,20170002,128,32,0.25,0,0,sin_error
+crc32,16,0.01,3,20170003,128,32,0.25,5,0,ERROR crc_error
+crc32,16,0.01,4,20170004,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,5,20170005,128,32,0.25,0,0,sin_error
+crc32,16,0.01,6,20170006,128,32,0.25,3,0,ERROR crc_error
+crc32,16,0.01,7,20170007,128,32,0.25,0,0,sin_error
+crc32,16,0.01,8,20170008,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,9,20170009,128,32,0.25,3,0,ERROR crc_error
+crc32,16,0.01,10,20170010,128,32,0.25,0,0,sin_error
+crc32,16,0.01,11,20170011,128,32,0.25,3,0,ERROR crc_error
+crc32,16,0.01,12,20170012,128,32,0.25,4,0,ERROR crc_error
+crc32,16,0.01,13,20170013,128,32,0.25,0,0,sin_error
+crc32,16,0.01,14,20170014,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,15,20170015,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,16,20170016,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,17,20170017,128,32,0.25,0,0,sin_error
+crc32,16,0.01,18,20170018,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,19,20170019,128,32,0.25,0,0,sin_error
+crc32,16,0.01,20,20170020,128,32,0.25,3,0,ERROR crc_error
+crc32,16,0.01,21,20170021,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,22,20170022,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,23,20170023,128,32,0.25,5,0,ERROR crc_error
+crc32,16,0.01,24,20170024,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,25,20170025,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,26,20170026,128,32,0.25,2,0,ERROR crc_error
+crc32,16,0.01,27,20170027,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,28,20170028,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.01,29,20170029,128,32,0.25,0,0,sin_error
+crc32,16,0.05,0,20210000,128,32,0.25,12,0,ERROR crc_error
+crc32,16,0.05,1,20210001,128,32,0.25,6,0,ERROR crc_error
+crc32,16,0.05,2,20210002,128,32,0.25,7,0,ERROR crc_error
+crc32,16,0.05,3,20210003,128,32,0.25,9,0,ERROR crc_error
+crc32,16,0.05,4,20210004,128,32,0.25,9,0,ERROR crc_error
+crc32,16,0.05,5,20210005,128,32,0.25,1,0,ERROR crc_error
+crc32,16,0.05,6,20210006,128,32,0.25,11,0,ERROR crc_error
+crc32,16,0.05,7,20210007,128,32,0.25,4,0,ERROR crc_error
+crc32,16,0.05,8,20210008,128,32,0.25,13,0,ERROR crc_error
+crc32,16,0.05,9,20210009,128,32,0.25,8,0,ERROR crc_error
+crc32,16,0.05,10,20210010,128,32,0.25,5,0,ERROR crc_error
+crc32,16,0.05,11,20210011,128,32,0.25,9,0,ERROR crc_error
+crc32,16,0.05,12,20210012,128,32,0.25,5,0,ERROR crc_error
+crc32,16,0.05,13,20210013,128,32,0.25,5,0,ERROR crc_error
+crc32,16,0.05,14,20210014,128,32,0.25,13,0,ERROR crc_error
+crc32,16,0.05,15,20210015,128,32,0.25,4,0,ERROR crc_error
+crc32,16,0.05,16,20210016,128,32,0.25,11,0,ERROR crc_error
+crc32,16,0.05,17,20210017,128,32,0.25,10,0,ERROR crc_error
+crc32,16,0.05,18,20210018,128,32,0.25,11,0,ERROR crc_error
+crc32,16,0.05,19,20210019,128,32,0.25,8,0,ERROR crc_error
+crc32,16,0.05,20,20210020,128,32,0.25,6,0,ERROR crc_error
+crc32,16,0.05,21,20210021,128,32,0.25,6,0,ERROR crc_error
+crc32,16,0.05,22,20210022,128,32,0.25,6,0,ERROR crc_error
+crc32,16,0.05,23,20210023,128,32,0.25,8,0,ERROR crc_error
+crc32,16,0.05,24,20210024,128,32,0.25,11,0,ERROR crc_error
+crc32,16,0.05,25,20210025,128,32,0.25,10,0,ERROR crc_error
+crc32,16,0.05,26,20210026,128,32,0.25,11,0,ERROR crc_error
+crc32,16,0.05,27,20210027,128,32,0.25,10,0,ERROR crc_error
+crc32,16,0.05,28,20210028,128,32,0.25,3,0,ERROR crc_error
+crc32,16,0.05,29,20210029,128,32,0.25,8,0,ERROR crc_error
+crc32,64,0.0,0,20640000,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,1,20640001,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,2,20640002,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,3,20640003,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,4,20640004,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,5,20640005,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,6,20640006,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,7,20640007,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,8,20640008,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,9,20640009,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,10,20640010,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,11,20640011,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,12,20640012,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,13,20640013,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,14,20640014,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,15,20640015,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,16,20640016,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,17,20640017,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,18,20640018,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,19,20640019,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,20,20640020,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,21,20640021,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,22,20640022,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,23,20640023,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,24,20640024,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,25,20640025,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,26,20640026,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,27,20640027,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,28,20640028,512,32,0.0625,0,0,sin_error
+crc32,64,0.0,29,20640029,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,0,20641000,512,32,0.0625,1,0,ERROR crc_error
+crc32,64,0.001,1,20641001,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,2,20641002,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,3,20641003,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,4,20641004,512,32,0.0625,2,0,ERROR crc_error
+crc32,64,0.001,5,20641005,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,6,20641006,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,7,20641007,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,8,20641008,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,9,20641009,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,10,20641010,512,32,0.0625,2,0,ERROR crc_error
+crc32,64,0.001,11,20641011,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,12,20641012,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,13,20641013,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,14,20641014,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,15,20641015,512,32,0.0625,1,0,ERROR crc_error
+crc32,64,0.001,16,20641016,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,17,20641017,512,32,0.0625,1,0,ERROR crc_error
+crc32,64,0.001,18,20641018,512,32,0.0625,1,0,ERROR crc_error
+crc32,64,0.001,19,20641019,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,20,20641020,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,21,20641021,512,32,0.0625,2,0,ERROR crc_error
+crc32,64,0.001,22,20641022,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,23,20641023,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,24,20641024,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,25,20641025,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,26,20641026,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,27,20641027,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,28,20641028,512,32,0.0625,0,0,sin_error
+crc32,64,0.001,29,20641029,512,32,0.0625,0,0,sin_error
+crc32,64,0.01,0,20650000,512,32,0.0625,3,0,ERROR crc_error
+crc32,64,0.01,1,20650001,512,32,0.0625,6,0,ERROR crc_error
+crc32,64,0.01,2,20650002,512,32,0.0625,8,0,ERROR crc_error
+crc32,64,0.01,3,20650003,512,32,0.0625,7,0,ERROR crc_error
+crc32,64,0.01,4,20650004,512,32,0.0625,9,0,ERROR crc_error
+crc32,64,0.01,5,20650005,512,32,0.0625,5,0,ERROR crc_error
+crc32,64,0.01,6,20650006,512,32,0.0625,7,0,ERROR crc_error
+crc32,64,0.01,7,20650007,512,32,0.0625,7,0,ERROR crc_error
+crc32,64,0.01,8,20650008,512,32,0.0625,6,0,ERROR crc_error
+crc32,64,0.01,9,20650009,512,32,0.0625,3,0,ERROR crc_error
+crc32,64,0.01,10,20650010,512,32,0.0625,1,0,ERROR crc_error
+crc32,64,0.01,11,20650011,512,32,0.0625,5,0,ERROR crc_error
+crc32,64,0.01,12,20650012,512,32,0.0625,4,0,ERROR crc_error
+crc32,64,0.01,13,20650013,512,32,0.0625,5,0,ERROR crc_error
+crc32,64,0.01,14,20650014,512,32,0.0625,8,0,ERROR crc_error
+crc32,64,0.01,15,20650015,512,32,0.0625,3,0,ERROR crc_error
+crc32,64,0.01,16,20650016,512,32,0.0625,6,0,ERROR crc_error
+crc32,64,0.01,17,20650017,512,32,0.0625,6,0,ERROR crc_error
+crc32,64,0.01,18,20650018,512,32,0.0625,6,0,ERROR crc_error
+crc32,64,0.01,19,20650019,512,32,0.0625,4,0,ERROR crc_error
+crc32,64,0.01,20,20650020,512,32,0.0625,7,0,ERROR crc_error
+crc32,64,0.01,21,20650021,512,32,0.0625,7,0,ERROR crc_error
+crc32,64,0.01,22,20650022,512,32,0.0625,10,0,ERROR crc_error
+crc32,64,0.01,23,20650023,512,32,0.0625,5,0,ERROR crc_error
+crc32,64,0.01,24,20650024,512,32,0.0625,3,0,ERROR crc_error
+crc32,64,0.01,25,20650025,512,32,0.0625,8,0,ERROR crc_error
+crc32,64,0.01,26,20650026,512,32,0.0625,7,0,ERROR crc_error
+crc32,64,0.01,27,20650027,512,32,0.0625,6,0,ERROR crc_error
+crc32,64,0.01,28,20650028,512,32,0.0625,4,0,ERROR crc_error
+crc32,64,0.01,29,20650029,512,32,0.0625,3,0,ERROR crc_error
+crc32,64,0.05,0,20690000,512,32,0.0625,32,0,ERROR crc_error
+crc32,64,0.05,1,20690001,512,32,0.0625,34,0,ERROR crc_error
+crc32,64,0.05,2,20690002,512,32,0.0625,23,0,ERROR crc_error
+crc32,64,0.05,3,20690003,512,32,0.0625,27,0,ERROR crc_error
+crc32,64,0.05,4,20690004,512,32,0.0625,34,0,ERROR crc_error
+crc32,64,0.05,5,20690005,512,32,0.0625,28,0,ERROR crc_error
+crc32,64,0.05,6,20690006,512,32,0.0625,23,0,ERROR crc_error
+crc32,64,0.05,7,20690007,512,32,0.0625,29,0,ERROR crc_error
+crc32,64,0.05,8,20690008,512,32,0.0625,19,0,ERROR crc_error
+crc32,64,0.05,9,20690009,512,32,0.0625,25,0,ERROR crc_error
+crc32,64,0.05,10,20690010,512,32,0.0625,18,0,ERROR crc_error
+crc32,64,0.05,11,20690011,512,32,0.0625,35,0,ERROR crc_error
+crc32,64,0.05,12,20690012,512,32,0.0625,31,0,ERROR crc_error
+crc32,64,0.05,13,20690013,512,32,0.0625,25,0,ERROR crc_error
+crc32,64,0.05,14,20690014,512,32,0.0625,26,0,ERROR crc_error
+crc32,64,0.05,15,20690015,512,32,0.0625,29,0,ERROR crc_error
+crc32,64,0.05,16,20690016,512,32,0.0625,31,0,ERROR crc_error
+crc32,64,0.05,17,20690017,512,32,0.0625,29,0,ERROR crc_error
+crc32,64,0.05,18,20690018,512,32,0.0625,30,0,ERROR crc_error
+crc32,64,0.05,19,20690019,512,32,0.0625,22,0,ERROR crc_error
+crc32,64,0.05,20,20690020,512,32,0.0625,21,0,ERROR crc_error
+crc32,64,0.05,21,20690021,512,32,0.0625,28,0,ERROR crc_error
+crc32,64,0.05,22,20690022,512,32,0.0625,31,0,ERROR crc_error
+crc32,64,0.05,23,20690023,512,32,0.0625,21,0,ERROR crc_error
+crc32,64,0.05,24,20690024,512,32,0.0625,30,0,ERROR crc_error
+crc32,64,0.05,25,20690025,512,32,0.0625,30,0,ERROR crc_error
+crc32,64,0.05,26,20690026,512,32,0.0625,24,0,ERROR crc_error
+crc32,64,0.05,27,20690027,512,32,0.0625,25,0,ERROR crc_error
+crc32,64,0.05,28,20690028,512,32,0.0625,40,0,ERROR crc_error
+crc32,64,0.05,29,20690029,512,32,0.0625,23,0,ERROR crc_error
+crc32,256,0.0,0,22560000,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,1,22560001,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,2,22560002,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,3,22560003,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,4,22560004,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,5,22560005,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,6,22560006,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,7,22560007,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,8,22560008,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,9,22560009,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,10,22560010,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,11,22560011,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,12,22560012,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,13,22560013,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,14,22560014,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,15,22560015,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,16,22560016,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,17,22560017,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,18,22560018,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,19,22560019,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,20,22560020,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,21,22560021,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,22,22560022,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,23,22560023,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,24,22560024,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,25,22560025,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,26,22560026,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,27,22560027,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,28,22560028,2048,32,0.015625,0,0,sin_error
+crc32,256,0.0,29,22560029,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,0,22561000,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,1,22561001,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.001,2,22561002,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,3,22561003,2048,32,0.015625,1,0,ERROR crc_error
+crc32,256,0.001,4,22561004,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.001,5,22561005,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,6,22561006,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,7,22561007,2048,32,0.015625,5,0,ERROR crc_error
+crc32,256,0.001,8,22561008,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.001,9,22561009,2048,32,0.015625,4,0,ERROR crc_error
+crc32,256,0.001,10,22561010,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,11,22561011,2048,32,0.015625,1,0,ERROR crc_error
+crc32,256,0.001,12,22561012,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,13,22561013,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.001,14,22561014,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.001,15,22561015,2048,32,0.015625,5,0,ERROR crc_error
+crc32,256,0.001,16,22561016,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.001,17,22561017,2048,32,0.015625,1,0,ERROR crc_error
+crc32,256,0.001,18,22561018,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,19,22561019,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,20,22561020,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,21,22561021,2048,32,0.015625,4,0,ERROR crc_error
+crc32,256,0.001,22,22561022,2048,32,0.015625,5,0,ERROR crc_error
+crc32,256,0.001,23,22561023,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,24,22561024,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,25,22561025,2048,32,0.015625,1,0,ERROR crc_error
+crc32,256,0.001,26,22561026,2048,32,0.015625,0,0,sin_error
+crc32,256,0.001,27,22561027,2048,32,0.015625,4,0,ERROR crc_error
+crc32,256,0.001,28,22561028,2048,32,0.015625,3,0,ERROR crc_error
+crc32,256,0.001,29,22561029,2048,32,0.015625,2,0,ERROR crc_error
+crc32,256,0.01,0,22570000,2048,32,0.015625,16,0,ERROR crc_error
+crc32,256,0.01,1,22570001,2048,32,0.015625,13,0,ERROR crc_error
+crc32,256,0.01,2,22570002,2048,32,0.015625,19,0,ERROR crc_error
+crc32,256,0.01,3,22570003,2048,32,0.015625,19,0,ERROR crc_error
+crc32,256,0.01,4,22570004,2048,32,0.015625,15,0,ERROR crc_error
+crc32,256,0.01,5,22570005,2048,32,0.015625,18,0,ERROR crc_error
+crc32,256,0.01,6,22570006,2048,32,0.015625,18,0,ERROR crc_error
+crc32,256,0.01,7,22570007,2048,32,0.015625,22,0,ERROR crc_error
+crc32,256,0.01,8,22570008,2048,32,0.015625,14,0,ERROR crc_error
+crc32,256,0.01,9,22570009,2048,32,0.015625,22,0,ERROR crc_error
+crc32,256,0.01,10,22570010,2048,32,0.015625,22,0,ERROR crc_error
+crc32,256,0.01,11,22570011,2048,32,0.015625,19,0,ERROR crc_error
+crc32,256,0.01,12,22570012,2048,32,0.015625,19,0,ERROR crc_error
+crc32,256,0.01,13,22570013,2048,32,0.015625,23,0,ERROR crc_error
+crc32,256,0.01,14,22570014,2048,32,0.015625,26,0,ERROR crc_error
+crc32,256,0.01,15,22570015,2048,32,0.015625,27,0,ERROR crc_error
+crc32,256,0.01,16,22570016,2048,32,0.015625,19,0,ERROR crc_error
+crc32,256,0.01,17,22570017,2048,32,0.015625,25,0,ERROR crc_error
+crc32,256,0.01,18,22570018,2048,32,0.015625,15,0,ERROR crc_error
+crc32,256,0.01,19,22570019,2048,32,0.015625,15,0,ERROR crc_error
+crc32,256,0.01,20,22570020,2048,32,0.015625,18,0,ERROR crc_error
+crc32,256,0.01,21,22570021,2048,32,0.015625,29,0,ERROR crc_error
+crc32,256,0.01,22,22570022,2048,32,0.015625,22,0,ERROR crc_error
+crc32,256,0.01,23,22570023,2048,32,0.015625,21,0,ERROR crc_error
+crc32,256,0.01,24,22570024,2048,32,0.015625,21,0,ERROR crc_error
+crc32,256,0.01,25,22570025,2048,32,0.015625,20,0,ERROR crc_error
+crc32,256,0.01,26,22570026,2048,32,0.015625,20,0,ERROR crc_error
+crc32,256,0.01,27,22570027,2048,32,0.015625,20,0,ERROR crc_error
+crc32,256,0.01,28,22570028,2048,32,0.015625,11,0,ERROR crc_error
+crc32,256,0.01,29,22570029,2048,32,0.015625,25,0,ERROR crc_error
+crc32,256,0.05,0,22610000,2048,32,0.015625,102,0,ERROR crc_error
+crc32,256,0.05,1,22610001,2048,32,0.015625,97,0,ERROR crc_error
+crc32,256,0.05,2,22610002,2048,32,0.015625,100,0,ERROR crc_error
+crc32,256,0.05,3,22610003,2048,32,0.015625,91,0,ERROR crc_error
+crc32,256,0.05,4,22610004,2048,32,0.015625,99,0,ERROR crc_error
+crc32,256,0.05,5,22610005,2048,32,0.015625,94,0,ERROR crc_error
+crc32,256,0.05,6,22610006,2048,32,0.015625,101,0,ERROR crc_error
+crc32,256,0.05,7,22610007,2048,32,0.015625,96,0,ERROR crc_error
+crc32,256,0.05,8,22610008,2048,32,0.015625,98,0,ERROR crc_error
+crc32,256,0.05,9,22610009,2048,32,0.015625,105,0,ERROR crc_error
+crc32,256,0.05,10,22610010,2048,32,0.015625,107,0,ERROR crc_error
+crc32,256,0.05,11,22610011,2048,32,0.015625,129,0,ERROR crc_error
+crc32,256,0.05,12,22610012,2048,32,0.015625,95,0,ERROR crc_error
+crc32,256,0.05,13,22610013,2048,32,0.015625,104,0,ERROR crc_error
+crc32,256,0.05,14,22610014,2048,32,0.015625,101,0,ERROR crc_error
+crc32,256,0.05,15,22610015,2048,32,0.015625,115,0,ERROR crc_error
+crc32,256,0.05,16,22610016,2048,32,0.015625,93,0,ERROR crc_error
+crc32,256,0.05,17,22610017,2048,32,0.015625,107,0,ERROR crc_error
+crc32,256,0.05,18,22610018,2048,32,0.015625,109,0,ERROR crc_error
+crc32,256,0.05,19,22610019,2048,32,0.015625,111,0,ERROR crc_error
+crc32,256,0.05,20,22610020,2048,32,0.015625,95,0,ERROR crc_error
+crc32,256,0.05,21,22610021,2048,32,0.015625,119,0,ERROR crc_error
+crc32,256,0.05,22,22610022,2048,32,0.015625,115,0,ERROR crc_error
+crc32,256,0.05,23,22610023,2048,32,0.015625,104,0,ERROR crc_error
+crc32,256,0.05,24,22610024,2048,32,0.015625,94,0,ERROR crc_error
+crc32,256,0.05,25,22610025,2048,32,0.015625,94,0,ERROR crc_error
+crc32,256,0.05,26,22610026,2048,32,0.015625,103,0,ERROR crc_error
+crc32,256,0.05,27,22610027,2048,32,0.015625,109,0,ERROR crc_error
+crc32,256,0.05,28,22610028,2048,32,0.015625,113,0,ERROR crc_error
+crc32,256,0.05,29,22610029,2048,32,0.015625,117,0,ERROR crc_error
+crc32,1024,0.0,0,30240000,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,1,30240001,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,2,30240002,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,3,30240003,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,4,30240004,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,5,30240005,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,6,30240006,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,7,30240007,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,8,30240008,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,9,30240009,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,10,30240010,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,11,30240011,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,12,30240012,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,13,30240013,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,14,30240014,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,15,30240015,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,16,30240016,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,17,30240017,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,18,30240018,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,19,30240019,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,20,30240020,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,21,30240021,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,22,30240022,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,23,30240023,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,24,30240024,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,25,30240025,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,26,30240026,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,27,30240027,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,28,30240028,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.0,29,30240029,8192,32,0.00390625,0,0,sin_error
+crc32,1024,0.001,0,30241000,8192,32,0.00390625,6,0,ERROR crc_error
+crc32,1024,0.001,1,30241001,8192,32,0.00390625,11,0,ERROR crc_error
+crc32,1024,0.001,2,30241002,8192,32,0.00390625,5,0,ERROR crc_error
+crc32,1024,0.001,3,30241003,8192,32,0.00390625,4,0,ERROR crc_error
+crc32,1024,0.001,4,30241004,8192,32,0.00390625,12,0,ERROR crc_error
+crc32,1024,0.001,5,30241005,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,6,30241006,8192,32,0.00390625,12,0,ERROR crc_error
+crc32,1024,0.001,7,30241007,8192,32,0.00390625,8,0,ERROR crc_error
+crc32,1024,0.001,8,30241008,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,9,30241009,8192,32,0.00390625,10,0,ERROR crc_error
+crc32,1024,0.001,10,30241010,8192,32,0.00390625,5,0,ERROR crc_error
+crc32,1024,0.001,11,30241011,8192,32,0.00390625,5,0,ERROR crc_error
+crc32,1024,0.001,12,30241012,8192,32,0.00390625,10,0,ERROR crc_error
+crc32,1024,0.001,13,30241013,8192,32,0.00390625,8,0,ERROR crc_error
+crc32,1024,0.001,14,30241014,8192,32,0.00390625,10,0,ERROR crc_error
+crc32,1024,0.001,15,30241015,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,16,30241016,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,17,30241017,8192,32,0.00390625,10,0,ERROR crc_error
+crc32,1024,0.001,18,30241018,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,19,30241019,8192,32,0.00390625,6,0,ERROR crc_error
+crc32,1024,0.001,20,30241020,8192,32,0.00390625,10,0,ERROR crc_error
+crc32,1024,0.001,21,30241021,8192,32,0.00390625,5,0,ERROR crc_error
+crc32,1024,0.001,22,30241022,8192,32,0.00390625,5,0,ERROR crc_error
+crc32,1024,0.001,23,30241023,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,24,30241024,8192,32,0.00390625,12,0,ERROR crc_error
+crc32,1024,0.001,25,30241025,8192,32,0.00390625,14,0,ERROR crc_error
+crc32,1024,0.001,26,30241026,8192,32,0.00390625,7,0,ERROR crc_error
+crc32,1024,0.001,27,30241027,8192,32,0.00390625,3,0,ERROR crc_error
+crc32,1024,0.001,28,30241028,8192,32,0.00390625,11,0,ERROR crc_error
+crc32,1024,0.001,29,30241029,8192,32,0.00390625,5,0,ERROR crc_error
+crc32,1024,0.01,0,30250000,8192,32,0.00390625,95,0,ERROR crc_error
+crc32,1024,0.01,1,30250001,8192,32,0.00390625,88,0,ERROR crc_error
+crc32,1024,0.01,2,30250002,8192,32,0.00390625,76,0,ERROR crc_error
+crc32,1024,0.01,3,30250003,8192,32,0.00390625,67,0,ERROR crc_error
+crc32,1024,0.01,4,30250004,8192,32,0.00390625,95,0,ERROR crc_error
+crc32,1024,0.01,5,30250005,8192,32,0.00390625,84,0,ERROR crc_error
+crc32,1024,0.01,6,30250006,8192,32,0.00390625,77,0,ERROR crc_error
+crc32,1024,0.01,7,30250007,8192,32,0.00390625,79,0,ERROR crc_error
+crc32,1024,0.01,8,30250008,8192,32,0.00390625,76,0,ERROR crc_error
+crc32,1024,0.01,9,30250009,8192,32,0.00390625,79,0,ERROR crc_error
+crc32,1024,0.01,10,30250010,8192,32,0.00390625,76,0,ERROR crc_error
+crc32,1024,0.01,11,30250011,8192,32,0.00390625,100,0,ERROR crc_error
+crc32,1024,0.01,12,30250012,8192,32,0.00390625,78,0,ERROR crc_error
+crc32,1024,0.01,13,30250013,8192,32,0.00390625,79,0,ERROR crc_error
+crc32,1024,0.01,14,30250014,8192,32,0.00390625,70,0,ERROR crc_error
+crc32,1024,0.01,15,30250015,8192,32,0.00390625,79,0,ERROR crc_error
+crc32,1024,0.01,16,30250016,8192,32,0.00390625,87,0,ERROR crc_error
+crc32,1024,0.01,17,30250017,8192,32,0.00390625,58,0,ERROR crc_error
+crc32,1024,0.01,18,30250018,8192,32,0.00390625,98,0,ERROR crc_error
+crc32,1024,0.01,19,30250019,8192,32,0.00390625,88,0,ERROR crc_error
+crc32,1024,0.01,20,30250020,8192,32,0.00390625,78,0,ERROR crc_error
+crc32,1024,0.01,21,30250021,8192,32,0.00390625,80,0,ERROR crc_error
+crc32,1024,0.01,22,30250022,8192,32,0.00390625,80,0,ERROR crc_error
+crc32,1024,0.01,23,30250023,8192,32,0.00390625,82,0,ERROR crc_error
+crc32,1024,0.01,24,30250024,8192,32,0.00390625,93,0,ERROR crc_error
+crc32,1024,0.01,25,30250025,8192,32,0.00390625,87,0,ERROR crc_error
+crc32,1024,0.01,26,30250026,8192,32,0.00390625,64,0,ERROR crc_error
+crc32,1024,0.01,27,30250027,8192,32,0.00390625,88,0,ERROR crc_error
+crc32,1024,0.01,28,30250028,8192,32,0.00390625,85,0,ERROR crc_error
+crc32,1024,0.01,29,30250029,8192,32,0.00390625,87,0,ERROR crc_error
+crc32,1024,0.05,0,30290000,8192,32,0.00390625,409,0,ERROR crc_error
+crc32,1024,0.05,1,30290001,8192,32,0.00390625,392,0,ERROR crc_error
+crc32,1024,0.05,2,30290002,8192,32,0.00390625,378,0,ERROR crc_error
+crc32,1024,0.05,3,30290003,8192,32,0.00390625,430,0,ERROR crc_error
+crc32,1024,0.05,4,30290004,8192,32,0.00390625,431,0,ERROR crc_error
+crc32,1024,0.05,5,30290005,8192,32,0.00390625,405,0,ERROR crc_error
+crc32,1024,0.05,6,30290006,8192,32,0.00390625,438,0,ERROR crc_error
+crc32,1024,0.05,7,30290007,8192,32,0.00390625,434,0,ERROR crc_error
+crc32,1024,0.05,8,30290008,8192,32,0.00390625,404,0,ERROR crc_error
+crc32,1024,0.05,9,30290009,8192,32,0.00390625,425,0,ERROR crc_error
+crc32,1024,0.05,10,30290010,8192,32,0.00390625,426,0,ERROR crc_error
+crc32,1024,0.05,11,30290011,8192,32,0.00390625,447,0,ERROR crc_error
+crc32,1024,0.05,12,30290012,8192,32,0.00390625,389,0,ERROR crc_error
+crc32,1024,0.05,13,30290013,8192,32,0.00390625,402,0,ERROR crc_error
+crc32,1024,0.05,14,30290014,8192,32,0.00390625,404,0,ERROR crc_error
+crc32,1024,0.05,15,30290015,8192,32,0.00390625,423,0,ERROR crc_error
+crc32,1024,0.05,16,30290016,8192,32,0.00390625,400,0,ERROR crc_error
+crc32,1024,0.05,17,30290017,8192,32,0.00390625,421,0,ERROR crc_error
+crc32,1024,0.05,18,30290018,8192,32,0.00390625,401,0,ERROR crc_error
+crc32,1024,0.05,19,30290019,8192,32,0.00390625,407,0,ERROR crc_error
+crc32,1024,0.05,20,30290020,8192,32,0.00390625,414,0,ERROR crc_error
+crc32,1024,0.05,21,30290021,8192,32,0.00390625,383,0,ERROR crc_error
+crc32,1024,0.05,22,30290022,8192,32,0.00390625,423,0,ERROR crc_error
+crc32,1024,0.05,23,30290023,8192,32,0.00390625,396,0,ERROR crc_error
+crc32,1024,0.05,24,30290024,8192,32,0.00390625,411,0,ERROR crc_error
+crc32,1024,0.05,25,30290025,8192,32,0.00390625,420,0,ERROR crc_error
+crc32,1024,0.05,26,30290026,8192,32,0.00390625,395,0,ERROR crc_error
+crc32,1024,0.05,27,30290027,8192,32,0.00390625,414,0,ERROR crc_error
+crc32,1024,0.05,28,30290028,8192,32,0.00390625,419,0,ERROR crc_error
+crc32,1024,0.05,29,30290029,8192,32,0.00390625,397,0,ERROR crc_error
+crc32,4096,0.0,0,60960000,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,1,60960001,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,2,60960002,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,3,60960003,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,4,60960004,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,5,60960005,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,6,60960006,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,7,60960007,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,8,60960008,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,9,60960009,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,10,60960010,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,11,60960011,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,12,60960012,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,13,60960013,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,14,60960014,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,15,60960015,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,16,60960016,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,17,60960017,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,18,60960018,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,19,60960019,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,20,60960020,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,21,60960021,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,22,60960022,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,23,60960023,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,24,60960024,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,25,60960025,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,26,60960026,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,27,60960027,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,28,60960028,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.0,29,60960029,32768,32,0.0009765625,0,0,sin_error
+crc32,4096,0.001,0,60961000,32768,32,0.0009765625,38,0,ERROR crc_error
+crc32,4096,0.001,1,60961001,32768,32,0.0009765625,34,0,ERROR crc_error
+crc32,4096,0.001,2,60961002,32768,32,0.0009765625,35,0,ERROR crc_error
+crc32,4096,0.001,3,60961003,32768,32,0.0009765625,30,0,ERROR crc_error
+crc32,4096,0.001,4,60961004,32768,32,0.0009765625,33,0,ERROR crc_error
+crc32,4096,0.001,5,60961005,32768,32,0.0009765625,37,0,ERROR crc_error
+crc32,4096,0.001,6,60961006,32768,32,0.0009765625,24,0,ERROR crc_error
+crc32,4096,0.001,7,60961007,32768,32,0.0009765625,43,0,ERROR crc_error
+crc32,4096,0.001,8,60961008,32768,32,0.0009765625,38,0,ERROR crc_error
+crc32,4096,0.001,9,60961009,32768,32,0.0009765625,27,0,ERROR crc_error
+crc32,4096,0.001,10,60961010,32768,32,0.0009765625,32,0,ERROR crc_error
+crc32,4096,0.001,11,60961011,32768,32,0.0009765625,40,0,ERROR crc_error
+crc32,4096,0.001,12,60961012,32768,32,0.0009765625,24,0,ERROR crc_error
+crc32,4096,0.001,13,60961013,32768,32,0.0009765625,29,0,ERROR crc_error
+crc32,4096,0.001,14,60961014,32768,32,0.0009765625,36,0,ERROR crc_error
+crc32,4096,0.001,15,60961015,32768,32,0.0009765625,40,0,ERROR crc_error
+crc32,4096,0.001,16,60961016,32768,32,0.0009765625,49,0,ERROR crc_error
+crc32,4096,0.001,17,60961017,32768,32,0.0009765625,26,0,ERROR crc_error
+crc32,4096,0.001,18,60961018,32768,32,0.0009765625,31,0,ERROR crc_error
+crc32,4096,0.001,19,60961019,32768,32,0.0009765625,28,0,ERROR crc_error
+crc32,4096,0.001,20,60961020,32768,32,0.0009765625,43,0,ERROR crc_error
+crc32,4096,0.001,21,60961021,32768,32,0.0009765625,39,0,ERROR crc_error
+crc32,4096,0.001,22,60961022,32768,32,0.0009765625,28,0,ERROR crc_error
+crc32,4096,0.001,23,60961023,32768,32,0.0009765625,31,0,ERROR crc_error
+crc32,4096,0.001,24,60961024,32768,32,0.0009765625,27,0,ERROR crc_error
+crc32,4096,0.001,25,60961025,32768,32,0.0009765625,33,0,ERROR crc_error
+crc32,4096,0.001,26,60961026,32768,32,0.0009765625,25,0,ERROR crc_error
+crc32,4096,0.001,27,60961027,32768,32,0.0009765625,34,0,ERROR crc_error
+crc32,4096,0.001,28,60961028,32768,32,0.0009765625,33,0,ERROR crc_error
+crc32,4096,0.001,29,60961029,32768,32,0.0009765625,37,0,ERROR crc_error
+crc32,4096,0.01,0,60970000,32768,32,0.0009765625,344,0,ERROR crc_error
+crc32,4096,0.01,1,60970001,32768,32,0.0009765625,339,0,ERROR crc_error
+crc32,4096,0.01,2,60970002,32768,32,0.0009765625,305,0,ERROR crc_error
+crc32,4096,0.01,3,60970003,32768,32,0.0009765625,347,0,ERROR crc_error
+crc32,4096,0.01,4,60970004,32768,32,0.0009765625,320,0,ERROR crc_error
+crc32,4096,0.01,5,60970005,32768,32,0.0009765625,345,0,ERROR crc_error
+crc32,4096,0.01,6,60970006,32768,32,0.0009765625,321,0,ERROR crc_error
+crc32,4096,0.01,7,60970007,32768,32,0.0009765625,316,0,ERROR crc_error
+crc32,4096,0.01,8,60970008,32768,32,0.0009765625,308,0,ERROR crc_error
+crc32,4096,0.01,9,60970009,32768,32,0.0009765625,352,0,ERROR crc_error
+crc32,4096,0.01,10,60970010,32768,32,0.0009765625,300,0,ERROR crc_error
+crc32,4096,0.01,11,60970011,32768,32,0.0009765625,341,0,ERROR crc_error
+crc32,4096,0.01,12,60970012,32768,32,0.0009765625,312,0,ERROR crc_error
+crc32,4096,0.01,13,60970013,32768,32,0.0009765625,390,0,ERROR crc_error
+crc32,4096,0.01,14,60970014,32768,32,0.0009765625,348,0,ERROR crc_error
+crc32,4096,0.01,15,60970015,32768,32,0.0009765625,369,0,ERROR crc_error
+crc32,4096,0.01,16,60970016,32768,32,0.0009765625,349,0,ERROR crc_error
+crc32,4096,0.01,17,60970017,32768,32,0.0009765625,318,0,ERROR crc_error
+crc32,4096,0.01,18,60970018,32768,32,0.0009765625,303,0,ERROR crc_error
+crc32,4096,0.01,19,60970019,32768,32,0.0009765625,356,0,ERROR crc_error
+crc32,4096,0.01,20,60970020,32768,32,0.0009765625,329,0,ERROR crc_error
+crc32,4096,0.01,21,60970021,32768,32,0.0009765625,339,0,ERROR crc_error
+crc32,4096,0.01,22,60970022,32768,32,0.0009765625,349,0,ERROR crc_error
+crc32,4096,0.01,23,60970023,32768,32,0.0009765625,335,0,ERROR crc_error
+crc32,4096,0.01,24,60970024,32768,32,0.0009765625,319,0,ERROR crc_error
+crc32,4096,0.01,25,60970025,32768,32,0.0009765625,338,0,ERROR crc_error
+crc32,4096,0.01,26,60970026,32768,32,0.0009765625,334,0,ERROR crc_error
+crc32,4096,0.01,27,60970027,32768,32,0.0009765625,328,0,ERROR crc_error
+crc32,4096,0.01,28,60970028,32768,32,0.0009765625,342,0,ERROR crc_error
+crc32,4096,0.01,29,60970029,32768,32,0.0009765625,303,0,ERROR crc_error
+crc32,4096,0.05,0,61010000,32768,32,0.0009765625,1576,0,ERROR crc_error
+crc32,4096,0.05,1,61010001,32768,32,0.0009765625,1706,0,ERROR crc_error
+crc32,4096,0.05,2,61010002,32768,32,0.0009765625,1626,0,ERROR crc_error
+crc32,4096,0.05,3,61010003,32768,32,0.0009765625,1671,0,ERROR crc_error
+crc32,4096,0.05,4,61010004,32768,32,0.0009765625,1677,0,ERROR crc_error
+crc32,4096,0.05,5,61010005,32768,32,0.0009765625,1616,0,ERROR crc_error
+crc32,4096,0.05,6,61010006,32768,32,0.0009765625,1604,0,ERROR crc_error
+crc32,4096,0.05,7,61010007,32768,32,0.0009765625,1638,0,ERROR crc_error
+crc32,4096,0.05,8,61010008,32768,32,0.0009765625,1731,0,ERROR crc_error
+crc32,4096,0.05,9,61010009,32768,32,0.0009765625,1633,0,ERROR crc_error
+crc32,4096,0.05,10,61010010,32768,32,0.0009765625,1643,0,ERROR crc_error
+crc32,4096,0.05,11,61010011,32768,32,0.0009765625,1625,0,ERROR crc_error
+crc32,4096,0.05,12,61010012,32768,32,0.0009765625,1634,0,ERROR crc_error
+crc32,4096,0.05,13,61010013,32768,32,0.0009765625,1628,0,ERROR crc_error
+crc32,4096,0.05,14,61010014,32768,32,0.0009765625,1692,0,ERROR crc_error
+crc32,4096,0.05,15,61010015,32768,32,0.0009765625,1617,0,ERROR crc_error
+crc32,4096,0.05,16,61010016,32768,32,0.0009765625,1639,0,ERROR crc_error
+crc32,4096,0.05,17,61010017,32768,32,0.0009765625,1576,0,ERROR crc_error
+crc32,4096,0.05,18,61010018,32768,32,0.0009765625,1634,0,ERROR crc_error
+crc32,4096,0.05,19,61010019,32768,32,0.0009765625,1581,0,ERROR crc_error
+crc32,4096,0.05,20,61010020,32768,32,0.0009765625,1666,0,ERROR crc_error
+crc32,4096,0.05,21,61010021,32768,32,0.0009765625,1726,0,ERROR crc_error
+crc32,4096,0.05,22,61010022,32768,32,0.0009765625,1670,0,ERROR crc_error
+crc32,4096,0.05,23,61010023,32768,32,0.0009765625,1575,0,ERROR crc_error
+crc32,4096,0.05,24,61010024,32768,32,0.0009765625,1631,0,ERROR crc_error
+crc32,4096,0.05,25,61010025,32768,32,0.0009765625,1574,0,ERROR crc_error
+crc32,4096,0.05,26,61010026,32768,32,0.0009765625,1709,0,ERROR crc_error
+crc32,4096,0.05,27,61010027,32768,32,0.0009765625,1644,0,ERROR crc_error
+crc32,4096,0.05,28,61010028,32768,32,0.0009765625,1635,0,ERROR crc_error
+crc32,4096,0.05,29,61010029,32768,32,0.0009765625,1586,0,ERROR crc_error
