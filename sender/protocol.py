@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import binascii
+import random
 import struct
 from dataclasses import dataclass
 
@@ -58,3 +59,24 @@ def crc32_iso(bits: str) -> int:
 def encode_crc(bits: str) -> str:
     padded = bits if len(bits) >= 32 else bits + "0" * (32 - len(bits))
     return padded + f"{crc32_iso(padded):032b}"
+
+def protect(bits: str, algorithm: int) -> Frame:
+    if algorithm == ALGO_SECDED: link_bits = encode_secded(bits)
+    elif algorithm == ALGO_CRC32: link_bits = encode_crc(bits)
+    else: raise ValueError("algoritmo desconocido")
+    return Frame(algorithm, len(bits), link_bits)
+
+def apply_noise(bits: str, probability: float, seed: int | None = None) -> tuple[str, int]:
+    if not 0 <= probability <= 1: raise ValueError("la tasa de ruido debe estar entre 0 y 1")
+    rng = random.Random(seed)
+    output, flips = [], 0
+    for bit in bits:
+        flip = rng.random() < probability
+        output.append(str(1 - int(bit)) if flip else bit)
+        flips += int(flip)
+    return "".join(output), flips
+
+def pack_message(frame: Frame, noisy_bits: str) -> bytes:
+    if len(noisy_bits) != len(frame.link_bits): raise ValueError("longitud de trama inconsistente")
+    header = struct.pack(HEADER_FORMAT, VERSION, frame.algorithm, frame.original_bits, len(noisy_bits))
+    return header + bits_to_bytes(noisy_bits)
