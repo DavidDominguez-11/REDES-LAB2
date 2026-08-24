@@ -1,6 +1,7 @@
 """Capas Presentación, Enlace, Ruido y el contrato TCP v1 del Laboratorio 2."""
 from __future__ import annotations
 
+import binascii
 import struct
 from dataclasses import dataclass
 
@@ -49,3 +50,11 @@ def encode_secded_byte(data: str) -> str:
 def encode_secded(bits: str) -> str:
     if len(bits) % 8: raise ValueError("la carga SECDED debe ser ASCII de ocho bits")
     return "".join(encode_secded_byte(bits[index:index + 8]) for index in range(0, len(bits), 8))
+
+def crc32_iso(bits: str) -> int:
+    if len(bits) % 8: raise ValueError("CRC-32/ISO-HDLC requiere bytes completos")
+    return binascii.crc32(bits_to_bytes(bits)) & 0xFFFFFFFF
+
+def encode_crc(bits: str) -> str:
+    padded = bits if len(bits) >= 32 else bits + "0" * (32 - len(bits))
+    return padded + f"{crc32_iso(padded):032b}"
