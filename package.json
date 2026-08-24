@@ -1,0 +1,14 @@
+{
+  "name": "lab2-error-control",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start:receiver": "node dist/server.js",
+    "test:receiver": "node dist/protocol_test.js",
+    "test": "npm run build && python tests/run_all.py"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
