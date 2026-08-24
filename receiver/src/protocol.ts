@@ -52,3 +52,18 @@ export function decodeSecded(frame: string, originalBits: number): { status: Dec
   if (doubles > 0) return { status: "doble_error_detectado", corrected, doubles };
   return { status: corrected ? "corregido" : "sin_error", bits: output.slice(0, originalBits), corrected, doubles };
 }
+export function crc32Iso(bits: string): number {
+  if (bits.length % 8 !== 0) throw new Error("CRC requiere bytes completos");
+  let crc = 0xffffffff;
+  for (const byte of bitsToBytes(bits)) {
+    crc ^= byte;
+    for (let i = 0; i < 8; i++) crc = (crc & 1) ? ((crc >>> 1) ^ 0xedb88320) >>> 0 : crc >>> 1;
+  }
+  return (crc ^ 0xffffffff) >>> 0;
+}
+export function decodeCrc(frame: string, originalBits: number): { status: DecodeStatus; bits?: string } {
+  if (frame.length < 32) throw new Error("trama CRC inválida");
+  const payload = frame.slice(0, -32), sent = Number.parseInt(frame.slice(-32), 2) >>> 0;
+  if (crc32Iso(payload) !== sent) return { status: "crc_error" };
+  return { status: "sin_error", bits: payload.slice(0, originalBits) };
+}
